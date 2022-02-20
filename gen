@@ -25,6 +25,6 @@ $releases = Iter\reduce($releases, function (string $acc, ReleaseGroup $group) {
     $date = $group->date->longRelativeDiffForHumans();
 
     return $acc . Str\format("- %s (%s, %s)\n", $group->link(), $tags, $date);
-}, "####  Latest releases I've contributed to\n\n");
+}, "####  Latest releases I've contributed to:\n\n");
 
 File\write(__DIR__ . '/README.md', $releases, File\WriteMode::TRUNCATE);
