@@ -1,4 +1,4 @@
-####  Latest releases I've contributed to
+####  Latest releases I've contributed to:
 
 - [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) ([2.5](https://github.com/LaraBug/LaraBug/releases/tag/2.5), 1 week ago)
 - [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v0.1.5](https://github.com/jrmajor/laravel-fluent/releases/tag/v0.1.5), 2 weeks ago)
