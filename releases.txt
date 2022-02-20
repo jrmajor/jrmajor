@@ -1,0 +1,37 @@
+2018-09-15T20:16:58Z elamperti/OpenWebScrobbler v2.0.6 #41
+2020-11-27T07:26:40Z spatie/laravel-flash 1.8.0 #27
+2020-11-27T22:44:10Z jessarcher/laravel-castable-data-transfer-object v1.0.0 #2,#3
+2020-12-02T22:48:10Z vimeo/psalm 4.3.0 #4730
+2021-03-20T16:06:01Z FriendsOfPHP/PHP-CS-Fixer v2.18.4 #5548
+2021-04-06T15:05:27Z jessarcher/laravel-castable-data-transfer-object v2.0.0 #6,#7,#8
+2021-04-06T18:40:34Z FriendsOfPHP/PHP-CS-Fixer v2.18.5 f01521b6f427b9ae39ac19edd451f3955d29a97a
+2021-04-27T20:19:37Z laravel/framework v8.39.0 #37077,#37087,#37112,#37101
+2021-05-01T14:48:19Z symfony/symfony v5.2.7,v4.4.22 #40964
+2021-05-06T11:42:25Z LaraBug/LaraBug 2.4 #49
+2021-05-12T13:19:04Z symfony/symfony v5.2.8,v4.4.23 #41157
+2021-05-28T19:07:45Z jrmajor/fluent-php v0.1.0
+2021-05-29T12:25:57Z jrmajor/fluent-php v0.2.0
+2021-06-06T20:19:21Z jrmajor/laravel-fluent v0.1.0
+2021-06-09T10:19:45Z briannesbitt/Carbon 2.49.0 #2337,#2338
+2021-06-10T09:23:19Z spatie/laravel-analytics 4.0.1 #399
+2021-06-10T14:12:43Z spatie/laravel-event-sourcing 5.0.1 #223
+2021-06-14T22:25:45Z livewire/livewire 2.5.0 #2850
+2021-06-16T12:18:53Z alpinejs/alpine v3.0.6 #1474
+2021-06-23T14:59:42Z jrmajor/laravel-fluent v0.1.1
+2021-06-29T08:26:49Z briannesbitt/Carbon 2.50.0 #2364
+2021-07-02T11:40:38Z jrmajor/pluralrules v0.1.0
+2021-07-02T11:48:08Z jrmajor/fluent-php v0.2.1
+2021-07-02T12:08:37Z jrmajor/laravel-fluent v0.1.2
+2021-07-02T16:00:11Z laravel/framework v8.49.0 #37838
+2021-07-13T11:55:20Z jrmajor/pluralrules v1.0.0
+2021-09-01T14:55:36Z spatie/laravel-backup 6.6.13 #1154
+2021-09-01T20:23:52Z jrmajor/fluent-php v0.3.0
+2021-09-13T15:30:35Z mockery/mockery 1.4.4,1.3.5 #1130
+2021-11-01T12:40:34Z nunomaduro/larastan 1.0.0 #961
+2022-01-02T23:01:53Z jrmajor/pluralrules v1.0.1
+2022-01-17T22:20:40Z jrmajor/laravel-fluent v0.1.3
+2022-01-26T01:32:57Z jrmajor/fluent-php v0.4.0
+2022-01-26T01:45:47Z jrmajor/laravel-fluent v0.1.4
+2022-01-27T17:47:05Z jrmajor/fluent-php v0.4.1
+2022-01-31T00:57:40Z jrmajor/laravel-fluent v0.1.5
+2022-02-09T08:37:10Z LaraBug/LaraBug 2.5 #66
