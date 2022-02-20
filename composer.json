@@ -1,0 +1,23 @@
+{
+    "name": "jrmajor/jrmajor",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": "~8.1.0",
+        "azjezz/psl": "2.0.0-rc2",
+        "nesbot/carbon": "^2.57"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Major\\Readme\\": "src"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}

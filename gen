@@ -1,0 +1,30 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+use Major\Readme\Helpers;
+use Major\Readme\Release;
+use Major\Readme\ReleaseGroup;
+use Psl\File;
+use Psl\Iter;
+use Psl\Str;
+use Psl\Vec;
+
+require __DIR__ . '/vendor/autoload.php';
+
+$releases = Vec\map(
+    Helpers\last_lines(__DIR__ . '/releases.txt', 10),
+    fn (string $r): ReleaseGroup => new ReleaseGroup($r),
+);
+
+$releases = Iter\reduce($releases, function (string $acc, ReleaseGroup $group) {
+    $tags = Vec\map($group->releases, fn (Release $r) => $r->link());
+    $tags = Helpers\pretty_join($tags);
+
+    $date = $group->date->longRelativeDiffForHumans();
+
+    return $acc . Str\format("- %s (%s, %s)\n", $group->link(), $tags, $date);
+}, "####  Latest releases I've contributed to\n\n");
+
+File\write(__DIR__ . '/README.md', $releases, File\WriteMode::TRUNCATE);
