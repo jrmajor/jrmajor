@@ -1,6 +1,9 @@
 name: Update readme
 
-on: push
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
 
 jobs:
   update-readme:
