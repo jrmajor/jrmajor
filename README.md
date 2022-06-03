@@ -1,6 +1,6 @@
 ####  Latest releases I've contributed to:
 
-- [phpstan/phpstan](https://github.com/phpstan/phpstan) ([1.7.3](https://github.com/phpstan/phpstan/releases/tag/1.7.3), 4 days ago)
+- [phpstan/phpstan](https://github.com/phpstan/phpstan) ([1.7.3](https://github.com/phpstan/phpstan/releases/tag/1.7.3), 5 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-beta1](https://github.com/vimeo/psalm/releases/tag/5.0.0-beta1), 2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0](https://github.com/azjezz/psl/releases/tag/2.0.0), 3 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 1 month ago)
