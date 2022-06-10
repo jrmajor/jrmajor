@@ -1,7 +1,7 @@
 ####  Latest releases I've contributed to:
 
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) ([1.7.3](https://github.com/phpstan/phpstan/releases/tag/1.7.3), 1 week ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-beta1](https://github.com/vimeo/psalm/releases/tag/5.0.0-beta1), 3 weeks ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-beta1](https://github.com/vimeo/psalm/releases/tag/5.0.0-beta1), 4 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0](https://github.com/azjezz/psl/releases/tag/2.0.0), 1 month ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 1 month ago)
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) ([9.5.18](https://github.com/sebastianbergmann/phpunit/releases/tag/9.5.18) and [8.5.25](https://github.com/sebastianbergmann/phpunit/releases/tag/8.5.25), 3 months ago)
