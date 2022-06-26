@@ -9,4 +9,4 @@
 - [LaraBug/LaraBug](https://github.com/LaraBug/LaraBug) ([2.5](https://github.com/LaraBug/LaraBug/releases/tag/2.5), 4 months ago)
 - [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v0.1.5](https://github.com/jrmajor/laravel-fluent/releases/tag/v0.1.5), 4 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v0.4.1](https://github.com/jrmajor/fluent-php/releases/tag/v0.4.1), 4 months ago)
-- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v0.1.4](https://github.com/jrmajor/laravel-fluent/releases/tag/v0.1.4), 4 months ago)
+- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v0.1.4](https://github.com/jrmajor/laravel-fluent/releases/tag/v0.1.4), 5 months ago)
