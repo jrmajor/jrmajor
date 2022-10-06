@@ -49,3 +49,4 @@
 2022-08-29T17:31:47Z PHPUnitGoodPractices/polyfill v1.6.0 #18
 2022-08-29T18:06:28Z PHPUnitGoodPractices/Traits v1.9.2 #55,#60
 2022-09-01T18:33:15Z FriendsOfPHP/PHP-CS-Fixer v3.11.0 #6545,#6580,#6595
+2022-09-25T13:59:08Z box-project/box 4.1.0 #696
