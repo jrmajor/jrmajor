@@ -58,3 +58,4 @@
 2022-12-16T06:44:09Z phpstan/phpdoc-parser 1.15.2 #171
 2022-12-26T15:16:10Z jrmajor/fluent-php v0.4.2
 2022-12-26T22:58:57Z jrmajor/laravel-fluent v0.2.0
+2023-02-25T22:27:21Z jrmajor/laravel-fluent v0.2.1
