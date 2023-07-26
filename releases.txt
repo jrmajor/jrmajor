@@ -52,6 +52,7 @@
 2022-09-25T13:59:08Z box-project/box 4.1.0 #696
 2022-10-10T18:42:02Z azjezz/psl 2.0.4 #363
 2022-10-12T14:23:58Z FriendsOfPHP/PHP-CS-Fixer v3.12.0 #6558,#6581,#6594,#6606,#6607,#6615,#6620
+2022-10-18T18:16:17Z jrmajor/pluralrules v1.1.0
 2022-11-04T08:20:51Z azjezz/psl 2.1.0 #354
 2022-12-09T07:31:29Z sebastianbergmann/phpunit 9.5.27,8.5.32 #5102
 2022-12-15T16:42:15Z phpstan/phpdoc-parser 1.15.1 #169
@@ -59,3 +60,6 @@
 2022-12-26T15:16:10Z jrmajor/fluent-php v0.4.2
 2022-12-26T22:58:57Z jrmajor/laravel-fluent v0.2.0
 2023-02-25T22:27:21Z jrmajor/laravel-fluent v0.2.1
+2023-07-09T15:00:28Z jrmajor/pluralrules v1.1.1
+2023-07-09T16:24:46Z jrmajor/fluent-php v1.0.0
+2023-07-09T17:04:45Z jrmajor/laravel-fluent v1.0.0
