@@ -63,3 +63,7 @@
 2023-07-09T15:00:28Z jrmajor/pluralrules v1.1.1
 2023-07-09T16:24:46Z jrmajor/fluent-php v1.0.0
 2023-07-09T17:04:45Z jrmajor/laravel-fluent v1.0.0
+2023-11-25T13:34:48Z jrmajor/pluralrules v1.1.2
+2023-11-25T13:52:46Z jrmajor/exporter v0.1.0
+2023-12-01T21:49:52Z jrmajor/fluent-php v1.0.1
+2023-12-01T22:09:17Z jrmajor/laravel-fluent v1.0.1
