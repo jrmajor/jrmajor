@@ -1,6 +1,6 @@
 ####  Latest releases I've contributed to:
 
-- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.0.1](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.0.1), 1 day ago)
+- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.0.1](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.0.1), 2 days ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.0.1](https://github.com/jrmajor/fluent-php/releases/tag/v1.0.1), 2 days ago)
 - [jrmajor/exporter](https://github.com/jrmajor/exporter) ([v0.1.0](https://github.com/jrmajor/exporter/releases/tag/v0.1.0), 1 week ago)
 - [jrmajor/pluralrules](https://github.com/jrmajor/pluralrules) ([v1.1.2](https://github.com/jrmajor/pluralrules/releases/tag/v1.1.2), 1 week ago)
