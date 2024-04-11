@@ -1,0 +1,35 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+use Psl\Regex;
+use Psl\Str;
+use Psl\File;
+use Psl\Vec;
+
+require __DIR__ . '/vendor/autoload.php';
+
+$repo = $argv[1];
+$tags = Str\split($argv[2], ',');
+$prs = Str\trim($argv[3] ?? '');
+
+$dates = Vec\map($tags, function (string $tag) use ($repo) {
+    $r = (new GuzzleHttp\Client(['base_uri' => 'https://github.com', 'timeout'  => 2.0]))
+        ->get("{$repo}/releases/tag/{$tag}");
+
+    return Regex\first_match(
+        (string) $r->getBody(),
+        '/(?:released|tagged) this\s+<(?:relative|local)-time[^>]+datetime="([\d-]{10}T[\d:]{8}Z)"/'
+    )[1] ?? throw new Exception("Unable to parse date for {$this->release->repository} {$this->tag}.");
+});
+
+$line = Str\format(
+  "%s %s %s%s\n",
+  Vec\sort($dates)[0],
+  $repo,
+  Str\join($tags, ','),
+  $prs === '' ? '' : " {$prs}",
+);
+
+File\write(__DIR__ . '/releases.txt', $line, File\WriteMode::APPEND);
