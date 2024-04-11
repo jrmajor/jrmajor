@@ -70,3 +70,4 @@
 2023-12-01T22:09:17Z jrmajor/laravel-fluent v1.0.1
 2024-04-10T19:20:01Z sveltejs/eslint-config v7.0.0 #31,#34
 2024-04-10T19:24:53Z sveltejs/eslint-config v7.0.1 #35
+2024-04-11T16:14:03Z sveltejs/kit create-svelte@6.1.0 #12098
