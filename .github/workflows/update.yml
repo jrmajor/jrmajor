@@ -31,4 +31,4 @@ jobs:
         with:
           commit_message: update readme
           branch: master
-          commit_author: Jeremiasz Major <jrh.mjr@gmail.com>
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
