@@ -1,9 +1,9 @@
 ####  Latest releases I've contributed to:
 
-- [sveltejs/kit](https://github.com/sveltejs/kit) ([create-svelte@6.1.0](https://github.com/sveltejs/kit/releases/tag/create-svelte@6.1.0), 5 hours ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.98](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.98), 12 hours ago)
-- [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) ([v7.0.1](https://github.com/sveltejs/eslint-config/releases/tag/v7.0.1), 1 day ago)
-- [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) ([v7.0.0](https://github.com/sveltejs/eslint-config/releases/tag/v7.0.0), 1 day ago)
+- [sveltejs/kit](https://github.com/sveltejs/kit) ([create-svelte@6.1.0](https://github.com/sveltejs/kit/releases/tag/create-svelte@6.1.0), 1 week ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.98](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.98), 1 week ago)
+- [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) ([v7.0.1](https://github.com/sveltejs/eslint-config/releases/tag/v7.0.1), 1 week ago)
+- [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) ([v7.0.0](https://github.com/sveltejs/eslint-config/releases/tag/v7.0.0), 1 week ago)
 - [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.0.1](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.0.1), 4 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.0.1](https://github.com/jrmajor/fluent-php/releases/tag/v1.0.1), 4 months ago)
 - [jrmajor/exporter](https://github.com/jrmajor/exporter) ([v0.1.0](https://github.com/jrmajor/exporter/releases/tag/v0.1.0), 4 months ago)
