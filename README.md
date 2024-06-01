@@ -9,4 +9,4 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.98](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.98), 1 month ago)
 - [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) ([v7.0.1](https://github.com/sveltejs/eslint-config/releases/tag/v7.0.1), 1 month ago)
 - [sveltejs/eslint-config](https://github.com/sveltejs/eslint-config) ([v7.0.0](https://github.com/sveltejs/eslint-config/releases/tag/v7.0.0), 1 month ago)
-- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.0.1](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.0.1), 5 months ago)
+- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.0.1](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.0.1), 6 months ago)
