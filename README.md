@@ -2,7 +2,7 @@
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.117](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.117), 1 month ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.111](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.111), 1 month ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.109](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.109), 1 month ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.109](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.109), 2 months ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) ([@sveltejs/kit@2.5.6](https://github.com/sveltejs/kit/releases/tag/@sveltejs/kit@2.5.6), 2 months ago)
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) ([v3.2.3](https://github.com/sveltejs/prettier-plugin-svelte/releases/tag/v3.2.3), 2 months ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) ([create-svelte@6.1.0](https://github.com/sveltejs/kit/releases/tag/create-svelte@6.1.0), 2 months ago)
