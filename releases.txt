@@ -77,3 +77,5 @@
 2024-04-19T22:13:00Z sveltejs/svelte svelte@5.0.0-next.109 #11250
 2024-04-22T12:31:45Z sveltejs/svelte svelte@5.0.0-next.111 #11241
 2024-04-29T20:47:21Z sveltejs/svelte svelte@5.0.0-next.117 #11379
+2024-06-06T11:42:27Z sveltejs/prettier-plugin-svelte v3.2.4 #437
+2024-08-03T20:59:55Z SanderRonde/phpstan-vscode v3.1.13 #88,#90,#91,#92,#93
