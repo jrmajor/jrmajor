@@ -1,6 +1,6 @@
 ####  Latest releases I've contributed to:
 
-- [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) ([eslint-plugin-svelte@2.44.0](https://github.com/sveltejs/eslint-plugin-svelte/releases/tag/eslint-plugin-svelte@2.44.0), 13 hours ago)
+- [sveltejs/eslint-plugin-svelte](https://github.com/sveltejs/eslint-plugin-svelte) ([eslint-plugin-svelte@2.44.0](https://github.com/sveltejs/eslint-plugin-svelte/releases/tag/eslint-plugin-svelte@2.44.0), 14 hours ago)
 - [SanderRonde/phpstan-vscode](https://github.com/SanderRonde/phpstan-vscode) ([v3.1.13](https://github.com/SanderRonde/phpstan-vscode/releases/tag/v3.1.13), 1 month ago)
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) ([v3.2.4](https://github.com/sveltejs/prettier-plugin-svelte/releases/tag/v3.2.4), 3 months ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.117](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.117), 4 months ago)
