@@ -4,7 +4,7 @@
 - [SanderRonde/phpstan-vscode](https://github.com/SanderRonde/phpstan-vscode) ([v3.1.13](https://github.com/SanderRonde/phpstan-vscode/releases/tag/v3.1.13), 3 months ago)
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) ([v3.2.4](https://github.com/sveltejs/prettier-plugin-svelte/releases/tag/v3.2.4), 5 months ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.117](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.117), 6 months ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.111](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.111), 6 months ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.111](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.111), 7 months ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) ([svelte@5.0.0-next.109](https://github.com/sveltejs/svelte/releases/tag/svelte@5.0.0-next.109), 7 months ago)
 - [sveltejs/kit](https://github.com/sveltejs/kit) ([@sveltejs/kit@2.5.6](https://github.com/sveltejs/kit/releases/tag/@sveltejs/kit@2.5.6), 7 months ago)
 - [sveltejs/prettier-plugin-svelte](https://github.com/sveltejs/prettier-plugin-svelte) ([v3.2.3](https://github.com/sveltejs/prettier-plugin-svelte/releases/tag/v3.2.3), 7 months ago)
