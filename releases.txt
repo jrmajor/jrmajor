@@ -80,3 +80,6 @@
 2024-06-06T11:42:27Z sveltejs/prettier-plugin-svelte v3.2.4 #437
 2024-08-03T20:59:55Z SanderRonde/phpstan-vscode v3.1.13 #88,#90,#91,#92,#93
 2024-09-13T07:07:46Z sveltejs/eslint-plugin-svelte eslint-plugin-svelte@2.44.0 #841
+2024-09-26T10:54:20Z sveltejs/prettier-plugin-svelte v3.2.7 #452
+2025-03-07T01:53:51Z vitejs/vite v6.2.1 #19515,#19516
+2025-03-11T05:37:04Z rolldown/rolldown v1.0.0-beta.4 #3614,#3621,#3624,#3626,#3657,#3682,#3688,#3699,#3700,#3701,#3704
