@@ -1,5 +1,7 @@
 ####  Latest releases I've contributed to:
 
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) ([@xyflow/svelte@1.1.1](https://github.com/xyflow/xyflow/releases/tag/@xyflow/svelte@1.1.1), 5 days ago)
+- [inertiajs/inertia](https://github.com/inertiajs/inertia) ([v2.0.13](https://github.com/inertiajs/inertia/releases/tag/v2.0.13), 1 week ago)
 - [vitejs/vite](https://github.com/vitejs/vite) ([v6.3.0-beta.0](https://github.com/vitejs/vite/releases/tag/v6.3.0-beta.0), 3 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.1.0](https://github.com/jrmajor/fluent-php/releases/tag/v1.1.0), 3 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.0.3](https://github.com/jrmajor/fluent-php/releases/tag/v1.0.3), 3 months ago)
@@ -8,5 +10,3 @@
 - [vitejs/vite](https://github.com/vitejs/vite) ([v6.2.1](https://github.com/vitejs/vite/releases/tag/v6.2.1), 3 months ago)
 - [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.1.1](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.1.1), 7 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.0.2](https://github.com/jrmajor/fluent-php/releases/tag/v1.0.2), 7 months ago)
-- [jrmajor/pluralrules](https://github.com/jrmajor/pluralrules) ([v1.1.3](https://github.com/jrmajor/pluralrules/releases/tag/v1.1.3), 7 months ago)
-- [jrmajor/exporter](https://github.com/jrmajor/exporter) ([v0.1.1](https://github.com/jrmajor/exporter/releases/tag/v0.1.1), 7 months ago)
