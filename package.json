@@ -7,7 +7,8 @@
     "lint": "eslint . --max-warnings 0"
   },
 	"dependencies": {
-    "@stricli/core": "^1.1"
+    "@stricli/core": "^1.1",
+    "date-fns": "^4.1"
   },
   "devDependencies": {
     "@jrmajor/eslint-config": "^0.1.3",
