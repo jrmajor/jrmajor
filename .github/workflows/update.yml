@@ -15,16 +15,20 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Setup PHP
-        uses: shivammathur/setup-php@v2
-        with:
-          php-version: "8.3"
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
 
-      - name: Install Composer dependencies
-        run: composer install --no-progress --no-interaction
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24.3.0
+          cache: pnpm
+
+      - name: Install npm dependencies
+        run: pnpm install --prod
 
       - name: Update Readme
-        run: php gen
+        run: pnpm cli gen
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4

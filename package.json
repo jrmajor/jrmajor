@@ -24,7 +24,7 @@
     },
     "runtime": {
       "name": "node",
-      "version": "22.16.0"
+      "version": "24.3.0"
     }
   }
 }
