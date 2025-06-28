@@ -1,8 +1,9 @@
 import { buildApplication, buildRouteMap, run } from '@stricli/core';
+import { add } from './add.ts';
 
 const app = buildApplication(
 	buildRouteMap({
-		routes: { },
+		routes: { add },
 		docs: { brief: 'List commands' },
 	}),
 	{ name: 'cli' },
