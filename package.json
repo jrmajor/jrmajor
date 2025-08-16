@@ -1,30 +1,30 @@
 {
-  "private": true,
-  "type": "module",
-  "packageManager": "pnpm@10.12.3",
-  "scripts": {
-    "cli": "node src/cli.ts",
-    "lint": "eslint . --max-warnings 0"
-  },
-  "dependencies": {
-    "@stricli/core": "^1.1",
-    "date-fns": "^4.1"
-  },
-  "devDependencies": {
-    "@jrmajor/eslint-config": "^0.2.1",
-    "@types/node": "^24.0",
-    "eslint": "^9.33.0",
-    "globals": "^16.2",
-    "typescript": "^5.8"
-  },
-  "devEngines": {
-    "packageManager": {
-      "name": "pnpm",
-      "version": "10.12.3"
-    },
-    "runtime": {
-      "name": "node",
-      "version": "24.3.0"
-    }
-  }
+	"private": true,
+	"type": "module",
+	"packageManager": "pnpm@10.12.3",
+	"scripts": {
+		"cli": "node src/cli.ts",
+		"lint": "eslint . --max-warnings 0"
+	},
+	"dependencies": {
+		"@stricli/core": "^1.1",
+		"date-fns": "^4.1"
+	},
+	"devDependencies": {
+		"@jrmajor/eslint-config": "^0.2.1",
+		"@types/node": "^24.0",
+		"eslint": "^9.33.0",
+		"globals": "^16.2",
+		"typescript": "^5.8"
+	},
+	"devEngines": {
+		"packageManager": {
+			"name": "pnpm",
+			"version": "10.12.3"
+		},
+		"runtime": {
+			"name": "node",
+			"version": "24.3.0"
+		}
+	}
 }
