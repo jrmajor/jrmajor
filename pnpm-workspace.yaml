@@ -3,6 +3,11 @@ onlyBuiltDependencies:
 
 useNodeVersion: 24.3.0
 
+overrides:
+  '@jrmajor/eslint-config@*>eslint-plugin-svelte': '-'
+  '@jrmajor/eslint-config@*>@eslint/css': '-'
+  '@jrmajor/eslint-config@*>tailwind-csstree': '-'
+
 engineStrict: true
 strictDepBuilds: true
 strictPeerDependencies: true
