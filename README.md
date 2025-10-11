@@ -9,4 +9,4 @@
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.1.0](https://github.com/jrmajor/fluent-php/releases/tag/v1.1.0), 6 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.0.3](https://github.com/jrmajor/fluent-php/releases/tag/v1.0.3), 6 months ago)
 - [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.2.0](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.2.0), 6 months ago)
-- [rolldown/rolldown](https://github.com/rolldown/rolldown) ([v1.0.0-beta.4](https://github.com/rolldown/rolldown/releases/tag/v1.0.0-beta.4), 6 months ago)
+- [rolldown/rolldown](https://github.com/rolldown/rolldown) ([v1.0.0-beta.4](https://github.com/rolldown/rolldown/releases/tag/v1.0.0-beta.4), 7 months ago)
