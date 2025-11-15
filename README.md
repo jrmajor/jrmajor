@@ -8,5 +8,5 @@
 - [vitejs/vite](https://github.com/vitejs/vite) ([v6.3.0-beta.0](https://github.com/vitejs/vite/releases/tag/v6.3.0-beta.0), 7 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.1.0](https://github.com/jrmajor/fluent-php/releases/tag/v1.1.0), 7 months ago)
 - [jrmajor/fluent-php](https://github.com/jrmajor/fluent-php) ([v1.0.3](https://github.com/jrmajor/fluent-php/releases/tag/v1.0.3), 7 months ago)
-- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.2.0](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.2.0), 7 months ago)
+- [jrmajor/laravel-fluent](https://github.com/jrmajor/laravel-fluent) ([v1.2.0](https://github.com/jrmajor/laravel-fluent/releases/tag/v1.2.0), 8 months ago)
 - [rolldown/rolldown](https://github.com/rolldown/rolldown) ([v1.0.0-beta.4](https://github.com/rolldown/rolldown/releases/tag/v1.0.0-beta.4), 8 months ago)
