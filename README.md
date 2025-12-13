@@ -1,6 +1,6 @@
 ####  Latest releases I've contributed to:
 
-- [inertiajs/inertia](https://github.com/inertiajs/inertia) ([v2.1.0](https://github.com/inertiajs/inertia/releases/tag/v2.1.0), 3 months ago)
+- [inertiajs/inertia](https://github.com/inertiajs/inertia) ([v2.1.0](https://github.com/inertiajs/inertia/releases/tag/v2.1.0), 4 months ago)
 - [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree) ([tailwind-csstree-v0.1.3](https://github.com/humanwhocodes/tailwind-csstree/releases/tag/tailwind-csstree-v0.1.3), 4 months ago)
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) ([v2.0.15](https://github.com/inertiajs/inertia/releases/tag/v2.0.15), 4 months ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) ([@xyflow/svelte@1.1.1](https://github.com/xyflow/xyflow/releases/tag/@xyflow/svelte@1.1.1), 5 months ago)
