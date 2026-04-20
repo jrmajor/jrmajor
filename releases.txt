@@ -97,3 +97,7 @@
 2025-07-17T15:33:23Z inertiajs/inertia v2.0.15 #2276
 2025-08-08T21:08:58Z humanwhocodes/tailwind-csstree tailwind-csstree-v0.1.3 #25,#26
 2025-08-13T13:37:49Z inertiajs/inertia v2.1.0 #2369
+2025-08-27T13:46:15Z inertiajs/inertia v2.1.3 #2516
+2025-09-01T21:20:19Z humanwhocodes/tailwind-csstree tailwind-csstree-v0.1.4 #27
+2026-03-11T14:57:44Z pnpm/action-setup v4.3.0 #188
+2026-04-11T17:30:45Z PHP-CS-Fixer/PHP-CS-Fixer v3.95.0 #8155
