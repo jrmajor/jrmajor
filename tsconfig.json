@@ -1,14 +1,16 @@
 {
 	"compilerOptions": {
-		"target": "esnext",
-		"module": "nodenext",
 		"allowImportingTsExtensions": true,
 		"noEmit": true,
 		"forceConsistentCasingInFileNames": true,
-		"strict": true,
 		"erasableSyntaxOnly": true,
 		"rewriteRelativeImportExtensions": true,
 		"verbatimModuleSyntax": true,
+		"checkJs": true,
+		"types": ["node"],
 	},
-	"include": ["./src/*.ts"],
+	"include": [
+		"./eslint.config.js",
+		"./src/*.ts",
+	],
 }

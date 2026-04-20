@@ -1,7 +1,5 @@
-onlyBuiltDependencies:
-  - unrs-resolver
-
-useNodeVersion: 24.3.0
+allowBuilds:
+  unrs-resolver: true
 
 overrides:
   '@jrmajor/eslint-config@*>eslint-plugin-svelte': '-'
@@ -9,5 +7,6 @@ overrides:
   '@jrmajor/eslint-config@*>tailwind-csstree': '-'
 
 engineStrict: true
+dedupePeers: true
 strictDepBuilds: true
 strictPeerDependencies: true

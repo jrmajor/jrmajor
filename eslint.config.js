@@ -7,7 +7,10 @@ export default defineConfig([
 	js,
 	{
 		languageOptions: {
-			globals: globals.node
+			globals: globals.node,
+		},
+		rules: {
+			'import-x/extensions': 'off',
 		},
 	},
 ]);

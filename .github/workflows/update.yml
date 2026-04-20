@@ -16,16 +16,11 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: pnpm/action-setup@v5
         with:
-          node-version: 24.3.0
-          cache: pnpm
-
-      - name: Install npm dependencies
-        run: pnpm install --prod
+          cache: true
+          # run_install: 'args: [--prod]' does not download node
+          run_install: true
 
       - name: Update Readme
         run: pnpm cli gen
